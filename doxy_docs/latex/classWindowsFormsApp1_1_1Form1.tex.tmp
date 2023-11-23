@@ -1,0 +1,39 @@
+\hypertarget{classWindowsFormsApp1_1_1Form1}{}\doxysection{Windows\+Forms\+App1.\+Form1 Class Reference}
+\label{classWindowsFormsApp1_1_1Form1}\index{WindowsFormsApp1.Form1@{WindowsFormsApp1.Form1}}
+
+
+Inheritance diagram for Windows\+Forms\+App1.\+Form1\+:
+% FIG 0
+
+
+Collaboration diagram for Windows\+Forms\+App1.\+Form1\+:
+% FIG 1
+\doxysubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+override void \mbox{\hyperlink{classWindowsFormsApp1_1_1Form1_a794a40bb1ca26b382a8c51f6f026d823}{Dispose}} (bool disposing)
+\begin{DoxyCompactList}\small\item\em Освободить все используемые ресурсы. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classWindowsFormsApp1_1_1Form1_a794a40bb1ca26b382a8c51f6f026d823}\label{classWindowsFormsApp1_1_1Form1_a794a40bb1ca26b382a8c51f6f026d823}} 
+\index{WindowsFormsApp1.Form1@{WindowsFormsApp1.Form1}!Dispose@{Dispose}}
+\index{Dispose@{Dispose}!WindowsFormsApp1.Form1@{WindowsFormsApp1.Form1}}
+\doxysubsubsection{\texorpdfstring{Dispose()}{Dispose()}}
+{\footnotesize\ttfamily override void Windows\+Forms\+App1.\+Form1.\+Dispose (\begin{DoxyParamCaption}\item[{bool}]{disposing }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}
+
+
+
+Освободить все используемые ресурсы. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em disposing} & истинно, если управляемый ресурс должен быть удален; иначе ложно.\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Form1.\+cs\item 
+Form1.\+Designer.\+cs\end{DoxyCompactItemize}
